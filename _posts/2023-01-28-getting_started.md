@@ -7,5 +7,3 @@ math: true
 mermaid: true
 ---
 
-
-# Hello
